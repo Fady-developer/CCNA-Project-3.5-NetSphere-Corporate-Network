@@ -39,6 +39,7 @@ The network was configured utilizing the following key protocols and features:
 
 
 
-<img width="1920" height="1080" alt="Screenshot (3643)" src="https://github.com/user-attachments/assets/47067992-8be7-45de-b7be-d1e6f7df08e6" />
+<img width="1920" height="1080" alt="Screenshot (3644)" src="https://github.com/user-attachments/assets/333fffd9-080b-4458-8a77-68bfda19cfca" />
+
 
 
