@@ -30,3 +30,15 @@ The network was configured utilizing the following key protocols and features:
 13- STP
 
 14- PVST+
+
+15- Private IP & Public IP address
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (3643)" src="https://github.com/user-attachments/assets/47067992-8be7-45de-b7be-d1e6f7df08e6" />
+
+
